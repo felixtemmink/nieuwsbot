@@ -1,0 +1,39 @@
+# ============================================================
+#  Instellingen van de nieuwsbot
+#  Regels die met # beginnen worden overgeslagen.
+#  Na een wijziging: bot sluiten en opnieuw starten.
+# ============================================================
+
+[aandelen]
+# Per regel: TICKER = naam(en) zoals ze in nieuwskoppen staan (komma ertussen)
+# De bot meldt alleen berichten waarin een van die namen voorkomt.
+NVDA = Nvidia
+AAPL = Apple
+MSFT = Microsoft
+AMZN = Amazon
+GOOGL = Alphabet, Google
+META = Meta, Facebook
+TSLA = Tesla
+AVGO = Broadcom
+ASML = ASML
+JPM = JPMorgan, JP Morgan
+
+[telefoon]
+# Pushmeldingen via de gratis app "ntfy" (zie LEESMIJ.txt).
+# In GitHub NIET hier invullen: zet de naam als geheim (Secret) NTFY_TOPIC. Zie LEESMIJ.
+NtfyOnderwerp =
+
+[regels]
+# Hoe vaak de bot nieuws ophaalt (in minuten)
+ControleerElkeMinuten = 5
+
+# Is de koers sinds het bericht al zoveel procent in die richting bewogen,
+# dan meldt de bot "WAARSCHIJNLIJK AL TE LAAT"
+TeLaatVanafProcent = 3
+
+# Berichten ouder dan dit aantal uren worden overgeslagen
+MaxLeeftijdUren = 3
+
+# Geschatte kosten per keer kopen + verkopen (spread, wisselkosten), in procent
+# Wordt gebruikt in het papier-rapport
+GeschatteKostenProcent = 0.3
