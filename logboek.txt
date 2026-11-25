@@ -1,3 +1,7 @@
 2026-11-24 23:39:27  Bot gestart
 2026-11-24 23:39:28  NVDA Negatief | sinds nieuws -0.0% (beurs dicht) | te laat: nee | Nvidia, Chip Stocks Fall As Data Center Spending Fears Return
 2026-11-24 23:39:28  AMZN Positief | sinds nieuws +0.2% (beurs dicht) | te laat: nee | Is Amazon.com (AMZN) Still Below Fair Value As AI Spending Rises?
+2026-11-25 06:02:36  Bot gestart
+2026-11-25 06:02:38  NVDA Positief | sinds nieuws -0.0% (beurs dicht) | te laat: nee | COHR Stock Swings After Nvidia-Led AI Rally: $15M Insider Buy Draws Attention
+2026-11-25 06:02:38  NVDA Negatief | sinds nieuws -0.0% (beurs dicht) | te laat: nee | Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake
+2026-11-25 06:02:38  TSLA Negatief | sinds nieuws +0.0% (beurs dicht) | te laat: nee | TSLA Stock Slips Overnight: Dell And HP See No Quick Relief From The AI-Driven Chip Crunch Behind Tesla’s 25% Memory Cut
