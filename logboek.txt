@@ -5,3 +5,11 @@
 2026-11-25 06:02:38  NVDA Positief | sinds nieuws -0.0% (beurs dicht) | te laat: nee | COHR Stock Swings After Nvidia-Led AI Rally: $15M Insider Buy Draws Attention
 2026-11-25 06:02:38  NVDA Negatief | sinds nieuws -0.0% (beurs dicht) | te laat: nee | Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake
 2026-11-25 06:02:38  TSLA Negatief | sinds nieuws +0.0% (beurs dicht) | te laat: nee | TSLA Stock Slips Overnight: Dell And HP See No Quick Relief From The AI-Driven Chip Crunch Behind Tesla’s 25% Memory Cut
+2026-11-25 16:29:32  Bot gestart
+2026-11-25 16:29:33  NVDA Negatief | sinds nieuws -0.8% | te laat: nee | Dan Ives: Nvidia sell-off a 'growth scare,' not a demand problem
+2026-11-25 16:29:33  NVDA Negatief | sinds nieuws -1.4% | te laat: nee | Why Nvidia (NVDA) Stock Is Falling Today: Tech and Chip Selloff
+2026-11-25 16:29:33  NVDA Negatief | sinds nieuws -1.6% | te laat: nee | Michael Burry Doubles Down on a Warning for Nvidia Stock Investors
+2026-11-25 16:29:33  NVDA Negatief | sinds nieuws -1.6% | te laat: nee | NVIDIA Tumbles 9% as Jensen Huang Rally Fades and Michael Burry Eyes a Fresh Short Near $200; AMD Plunges 10%, Intel Falls 8%
+2026-11-25 16:29:34  AMZN Positief | sinds nieuws -6.0% | te laat: nee | In partnership with Amazon, Duracell Brings Holiday Magic to Chicago with Power Playland on the Pier
+2026-11-25 16:29:34  AMZN Positief | sinds nieuws -6.0% | te laat: nee | GameStop Tops Amazon in Stock Ratings Ahead of Holiday Season
+2026-11-25 16:29:34  TSLA Negatief | sinds nieuws -5.7% | te laat: ja | SpaceX Slides 5% as Gary Black Warns a Tesla Bid Could Push It Below $100; Rocket Lab and AST SpaceMobile Drop 4%
