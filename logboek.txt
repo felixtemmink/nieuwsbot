@@ -21,3 +21,7 @@
 2026-11-26 06:30:50  Bot gestart
 2026-11-26 06:30:52  NVDA Positief | sinds nieuws -0.0% (beurs dicht) | te laat: nee | Is Nvidia Stock a Buy After Dell's Record AI Backlog?
 2026-11-26 06:30:52  NVDA Negatief | sinds nieuws -0.0% (beurs dicht) | te laat: nee | Nvidia’s Market Cap Falls Below Microsoft’s: Analyst Flags Five Overhangs For NVDA Stock
+2026-11-26 16:41:35  Bot gestart
+2026-11-26 16:41:36  AAPL Negatief | sinds nieuws +0.0% (beurs dicht) | te laat: nee | Apple Pulls Popular AI App Over Alarming Safety Concerns
+2026-11-26 16:41:36  AAPL Positief | sinds nieuws +0.0% (beurs dicht) | te laat: nee | An Apple Executive Just Filed to Sell $19 Million of Apple Stock With Shares a Hair Below Their Record
+2026-11-26 16:41:37  JPM Positief | sinds nieuws +0.0% (beurs dicht) | te laat: nee | JPMorgan Rethinks UK Investments: Will Higher Taxes Hurt Growth?
