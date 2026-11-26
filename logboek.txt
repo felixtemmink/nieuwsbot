@@ -18,3 +18,6 @@
 2026-11-26 00:45:45  NVDA Negatief | sinds nieuws -0.0% (beurs dicht) | te laat: nee | Nvidia May Get A Credit Rating Cut Amid Governance Issues, While US Officials Reportedly Say No Chinese Interference in Huang’s Affair
 2026-11-26 00:45:46  NVDA Negatief | sinds nieuws -0.0% (beurs dicht) | te laat: nee | Nvidia Sell-Off: You Won’t Believe How Cheap the Stock Is
 2026-11-26 00:45:46  AMZN Positief | sinds nieuws +0.0% (beurs dicht) | te laat: nee | Musk's Plan To Put 1 Million AI Satellites In Orbit Gets US Approval. Amazon Questions Whether It Can Be Done.
+2026-11-26 06:30:50  Bot gestart
+2026-11-26 06:30:52  NVDA Positief | sinds nieuws -0.0% (beurs dicht) | te laat: nee | Is Nvidia Stock a Buy After Dell's Record AI Backlog?
+2026-11-26 06:30:52  NVDA Negatief | sinds nieuws -0.0% (beurs dicht) | te laat: nee | Nvidia’s Market Cap Falls Below Microsoft’s: Analyst Flags Five Overhangs For NVDA Stock
