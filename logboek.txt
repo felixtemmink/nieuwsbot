@@ -25,3 +25,4 @@
 2026-11-26 16:41:36  AAPL Negatief | sinds nieuws +0.0% (beurs dicht) | te laat: nee | Apple Pulls Popular AI App Over Alarming Safety Concerns
 2026-11-26 16:41:36  AAPL Positief | sinds nieuws +0.0% (beurs dicht) | te laat: nee | An Apple Executive Just Filed to Sell $19 Million of Apple Stock With Shares a Hair Below Their Record
 2026-11-26 16:41:37  JPM Positief | sinds nieuws +0.0% (beurs dicht) | te laat: nee | JPMorgan Rethinks UK Investments: Will Higher Taxes Hurt Growth?
+2026-11-27 01:02:10  Bot gestart
