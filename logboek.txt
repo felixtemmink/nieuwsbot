@@ -28,3 +28,10 @@
 2026-11-27 01:02:10  Bot gestart
 2026-11-27 09:12:44  Bot gestart
 2026-11-27 09:12:45  NVDA Negatief | sinds nieuws -0.0% (beurs dicht) | te laat: nee | Michael Burry Shares Stark Warning About AI Boom, as Nvidia, Oracle and Meta Face Surging Debt Insurance Costs
+2026-11-27 19:14:30  Bot gestart
+2026-11-27 19:14:31  NVDA Negatief | sinds nieuws +0.7% | te laat: nee | Nvidia, CoreWeave Face New U.S. Restrictions on China AI Chip Access
+2026-11-27 19:14:31  NVDA Negatief | sinds nieuws +1.1% | te laat: nee | Dell Faces AI Server Shipment Halt as Nvidia Tightens Asia Restrictions
+2026-11-27 19:14:32  AMZN Positief | sinds nieuws +0.1% | te laat: nee | Amazon Stock Gets Black Friday Boost As Analysts Size Up Holiday Spending
+2026-11-27 19:14:32  META Negatief | sinds nieuws -0.4% | te laat: nee | Tech Stock Sell-Off: Down 23%, Is Meta a Buy Now?
+2026-11-27 19:14:33  TSLA Positief | sinds nieuws +0.2% | te laat: nee | Tesla Rallies 5% Amid SpaceX Merger Speculation; Rivian and SpaceX Rise 3%: Is Tesla’s 439x P/E a Warning Sign?
+2026-11-27 19:14:33  ASML Positief | sinds nieuws +1.1% | te laat: nee | AMD vs. ASML: As Wall Street Questions the AI Boom, Which Chip Stock Wins in 2027?
