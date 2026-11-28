@@ -35,3 +35,6 @@
 2026-11-27 19:14:32  META Negatief | sinds nieuws -0.4% | te laat: nee | Tech Stock Sell-Off: Down 23%, Is Meta a Buy Now?
 2026-11-27 19:14:33  TSLA Positief | sinds nieuws +0.2% | te laat: nee | Tesla Rallies 5% Amid SpaceX Merger Speculation; Rivian and SpaceX Rise 3%: Is Tesla’s 439x P/E a Warning Sign?
 2026-11-27 19:14:33  ASML Positief | sinds nieuws +1.1% | te laat: nee | AMD vs. ASML: As Wall Street Questions the AI Boom, Which Chip Stock Wins in 2027?
+2026-11-28 02:29:30  Bot gestart
+2026-11-28 02:29:32  GOOGL Negatief | sinds nieuws -0.2% (beurs dicht) | te laat: nee | Warning for Alphabet Investors: MScience Data Show Q4 Search Revenue Tracking Below Consensus
+2026-11-28 02:29:32  TSLA Positief | sinds nieuws -0.1% (beurs dicht) | te laat: nee | Zero To Sixty: Tesla Cybercab Fleet Tops 1,000 In Texas, Lucid Starts Fully Driverless Tests And Chinese EV Maker Posts Stronger Margins
